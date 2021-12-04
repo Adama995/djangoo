@@ -1,0 +1,2 @@
+CLIENTS = "clients"
+SELLERS = "Sellers"
